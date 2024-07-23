@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React JS, Next JS, Tailwind, and Docker<br>💬 Ask me about Laravel, Javascript, PHP, React<br>📫 How to reach me ausafliaquat1@gmail.com
+🌱 I’m currently learning VUE JS,and  Tailwind<br>💬 Ask me about Laravel, Javascript, PHP, VUE<br>📫 How to reach me ausafliaquat1@gmail.com
 
 
 ## 🌐 Socials:
